@@ -7,12 +7,12 @@ body {
 }
 
 header, footer {
-  background-color: #ffa500;
+  background-color: #dc0073;
   text-align: left;
 }
 
 header {
-  font-family: Work Sans;
+  font-family: 'Stint Ultra Expanded', cursive;
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -31,7 +31,7 @@ main {
 }
 
 h1 {
-  font-family: Poppins;
+  font-family: 'Stint Ultra Expanded', cursive;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -39,12 +39,12 @@ h1 {
 }
 
 h2 {
-  font-family: Poppins;
+  font-family: 'Stint Ultra Expanded', cursive;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #dc0073;
   padding: 10px 0px 10px 10px;
 }
 
@@ -64,7 +64,7 @@ img {
 .bio {
   color: #ffffff;
   font-size: 24px;
-  font-family: 'Work Sans';
+  font-family: 'Pontano Sans', sans-serif;
 }
 
 .buttonBox {
@@ -116,7 +116,7 @@ img {
 
 .mins {
   display: inline-block;
-  font-family: Poppins;
+  font-family: 'Stint Ultra Expanded', cursive;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
@@ -127,7 +127,7 @@ img {
 }
 
 .description {
-  font-family: Work Sans;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
@@ -157,4 +157,8 @@ footer {
   main {
     grid-template-columns: 1fr;
   }
+}
+
+a {
+  color: #c200fb;
 }
