@@ -45,7 +45,7 @@ h2 {
   letter-spacing: 0.3px;
   text-align: left;
   color: #dc0073;
-  padding: 10px 0px 10px 10px;
+  padding: 10px 20px 0 20px;
 }
 
 img {
@@ -94,36 +94,9 @@ img {
   }
 
 
-.recipe {
-  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+.project {
+  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);  
   width: 100%;
-}
-
-.a {
-
-}
-
-.c {
-
-}
-
-.time {
-  padding-left: 10px;
-  padding-top: 10px;
-  width: 20px;
-  height: auto;
-}
-
-.mins {
-  display: inline-block;
-  font-family: 'Stint Ultra Expanded', cursive;
-  font-size: 14px;
-  font-weight: 500;
-  letter-spacing: 0.3px;
-  text-align: left;
-  color: #4a4a4a;
-  position: relative;
-  bottom: 5px;
 }
 
 .description {
